@@ -5,7 +5,7 @@
 ### Game Title
 
 "Good Pizza, Great Pizza".
-This game can be found on the Google Play Store
+This game can be found on the Google Play Store.
 
 ### Rating
 
