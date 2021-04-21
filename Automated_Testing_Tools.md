@@ -66,17 +66,17 @@ Leapwork
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+This tool does not seem to have any recording features. Though the program does allow the saving of different test cases as a prefab so that you can easily choose your test circumstances time after time.
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes, this tool appears to allow the user to connect different requirements from spreadsheets, databases, scripts, and more.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Yes, this tool works cross browser and cross device, it has Sauce Labs and BrowserStack integrations, and can plug into DevOps. It uses API and HTTPS.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Ability to build reusable components for easier test automation.
+* Customizable scheduling of test automation in terms of frequency, time of day, and more.
+* Three types of documentation of test case execution, a video recording, a debugging view, and a timestamp log.
